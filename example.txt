@@ -2,3 +2,4 @@ Hello, World!
 Hola, Mundo!
 Ciao, Mondo!
 Halo, Welt!
+Salut, Monde!
